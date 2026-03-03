@@ -2,7 +2,7 @@
 
 Two Python scripts that generate a parametric Viking helmet as a 3D model — one using pure Python/numpy, one using Blender's scripting API.
 
-![Viking helmet with dome, rim, rivets, nose guard and Elder Futhark runes]
+![Viking helmet with dome, rim, rivets, nose guard and Elder Futhark runes](helmet_render.png)
 
 ---
 
